@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phanphuc3111
-- 👀 I’m interested in solving problems, algorithm exercises
-- 🌱 I’m currently learning python's modules, I'm finished with the basics
+- 👀 I’m interested in solving problems, creating interesting things with programming
+- 🌱 I’m currently learning some python's modules, I'm finished with the basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
